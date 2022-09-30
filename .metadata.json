@@ -1,5 +1,9 @@
 [
   {
+    "package": "brew",
+    "oncran": true
+  },
+  {
     "package": "WebAnalytics",
     "oncran": true
   }
