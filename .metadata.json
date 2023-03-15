@@ -1,10 +1,10 @@
 [
   {
-    "package": "brew",
+    "package": "WebAnalytics",
     "oncran": true
   },
   {
-    "package": "WebAnalytics",
+    "package": "brew",
     "oncran": true
   }
 ]
