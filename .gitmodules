@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "brew"]
-	path = brew
-	url = https://github.com/gregfrog/brew
 [submodule "WebAnalytics"]
 	path = WebAnalytics
 	url = https://github.com/gregfrog/webanalytics
+[submodule "brew"]
+	path = brew
+	url = https://github.com/gregfrog/brew
