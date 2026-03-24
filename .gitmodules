@@ -8,3 +8,6 @@
 [submodule "brew"]
 	path = brew
 	url = https://github.com/gregfrog/brew
+[submodule "uaparserjs"]
+	path = uaparserjs
+	url = https://github.com/gregfrog/uaparserjs-a
