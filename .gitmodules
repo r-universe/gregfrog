@@ -10,4 +10,4 @@
 	url = https://github.com/gregfrog/brew
 [submodule "uaparserjs"]
 	path = uaparserjs
-	url = https://github.com/gregfrog/uaparserjs-a
+	url = https://github.com/gregfrog/uaparserjs
